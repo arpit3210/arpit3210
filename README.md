@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpit Singh,   @arpit3210
 - 👀 I’m interested in Blockchain Development and Metaverse Development field.
-- 🌱 I’m currently learning about React and Blockchain Deep conceps.
+- 🌱 I’m currently learning about React and Blockchain Deep concepts.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me You can message me on
 Linkedin : ["arpit321"]( https://www.linkedin.com/in/arpit3210/)
