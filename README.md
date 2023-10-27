@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me You can message me on
 Linkedin : ["arpit321"]( https://www.linkedin.com/in/arpit3210/)
-Insta : ["@arpit_sthakur"](https://www.instagram.com/arpit_sthakur/)
+
 Twitter: ["Arpit_sThakur"](https://twitter.com/Arpit_sThakur)
  
 as well, also you can Email-me>> arpitsinghthakur321@gmail.com
