@@ -7,7 +7,7 @@ Linkedin : ["arpit321"]( https://www.linkedin.com/in/arpitweb3/)
 
 Twitter: ["Arpit_sThakur"](https://twitter.com/arpitweb3)
 
-Website: ["Arpit_sThakur"](https://arpitweb3.netlify.app/)
+Website: ["My website"](https://arpitweb3.netlify.app/)
  
 as well, also you can Email-me>> arpitsinghthakur321@gmail.com
 
