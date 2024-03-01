@@ -29,8 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arpitweb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/arpit3210/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitweb3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arpitweb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/arpit3210/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitweb3" height="30" width="40" /></a>
+<a href="https://twitter.com/arpitweb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitweb3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arpitweb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitweb3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,12 +39,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arpitsinghs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arpitsinghs" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit3210&show_icons=true&locale=en&layout=compact" alt="arpit3210" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit3210&show_icons=true&theme=radical&locale=en&layout=compact" alt="arpit3210" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit3210&show_icons=true&locale=en" alt="arpit3210" /></p>
-
-
-<!---
-arpit3210/arpit3210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
