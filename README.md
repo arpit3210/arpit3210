@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Singh</h1>
-<h3 align="center">A passionate Fullstack Blockchain developer from India, and CTO of MyWeb3Gift. I have stated my journey directly in web3 with solidity</h3>
+<h3 align="center">A passionate Fullstack Blockchain developer and Solidity Developer from India, and CTO of MyWeb3Gift. I have stated my journey directly in web3 with solidity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit3210&label=Profile%20views&color=0e75b6&style=flat" alt="arpit3210" /> </p>
 
