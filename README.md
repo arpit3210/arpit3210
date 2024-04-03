@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Real Estate Tokenization](https://test1--blocimmo.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://arpitweb3.netlify.app/](https://arpitweb3.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arpitweb3.com](https://arpitweb3.com)
 
 - 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/arpitweb3/](https://www.linkedin.com/in/arpitweb3/)
 
