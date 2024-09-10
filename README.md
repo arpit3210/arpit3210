@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Singh</h1>
-<h3 align="center">A passionate Fullstack Blockchain developer and Solidity Developer from India, and CTO of MyWeb3Gift. I have stated my journey directly in web3 with solidity</h3>
+<h3 align="center">A passionate Fullstack Blockchain developer and Solidity Developer. I have stated my journey directly in web3 with solidity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit3210&label=Profile%20views&color=0e75b6&style=flat" alt="arpit3210" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpitweb3" target="blank"><img src="https://img.shields.io/twitter/follow/arpitweb3?logo=twitter&style=for-the-badge" alt="arpitweb3" /></a> </p>
 
-- 🔭 I’m currently working on [BigDefiProject](https://github.com/arpit3210/BuildBlockchainSaas)
+- 🔭 I’m currently working on [DefiProject](https://github.com/arpit3210/BuildBlockchainSaas)
 
 - 🌱 I’m currently learning **Next.js, Decentralized Finance**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/arpitweb3/](https://www.linkedin.com/in/arpitweb3/)
 
-- 💬 Ask me about **I'm CTO and Blockchain Developer with a vast experience in the Blockchain WEB3 ecosystem, NFTs, Defi, and Stable Coins. I possess an in-depth understanding of writing smart contracts in solidity and developing Dapps. With my extensive knowledge, I have successfully developed several production-based projects in the field of Blockchain development.**
+- 💬 Ask me about **I'm Blockchain Developer with a vast experience in the Blockchain WEB3 ecosystem, NFTs, Defi, and Stable Coins. I possess an in-depth understanding of writing smart contracts in solidity and developing Dapps. With my extensive knowledge, I have successfully developed several production-based projects in the field of Blockchain development.**
 
 - 📫 How to reach me **arpitsinghthakur321@gmail.com**
 
